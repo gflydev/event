@@ -10,7 +10,7 @@ This guide covers the Event-Listener system in gFly — an implementation of the
 
 Install
 ```bash
-go get -u github.com/gflydev/event@v1.0.0
+go get -u github.com/gflydev/event@v1.0.1
 ```
 
 
